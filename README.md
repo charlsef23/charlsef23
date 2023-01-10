@@ -26,3 +26,13 @@
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" title="HTML"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561046-fd179b77-4145-4550-9a00-04f902f7fa67.png" /></a>
  <a href="https://developer.mozilla.org/es/docs/Web/CSS" title="CSS"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561179-ab5e23a8-19ca-4555-a8fe-c800c89836f9.png" /></a>
  <a href="https://www.javascript.com/" title="JavaScript"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561215-d51e1c92-dcdd-4b62-b3cb-5568be5ee3e0.png" /></a>
+ 
+ **Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=charlsef23&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlsef23&count_private=true&theme=dracula">
+
+</p>
+
