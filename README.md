@@ -6,7 +6,7 @@
  <p align="center">I'm a future <strong>Web Developer</strong> <br />¡These are my social networks👇!</p>
  
  <p align="center">
-  <a href="https://https://twitter.com/Charlsef23" target="blank" style="margin-right: 4px">
+  <a href="https://https://twitter.com/Charlsef23/" target="blank" style="margin-right: 4px">
     <img align="center" src="https://user-images.githubusercontent.com/49783285/211606076-36257bc0-982f-4146-9b35-54f3f92fa49d.svg" alt="Charlsef23" height="28px" width="28px">
   </a>
   <a href="https://www.linkedin.com/in/carlosestevefernández/" target="blank" style='margin-right:4px'>
