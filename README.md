@@ -37,7 +37,8 @@
 />
 <br/>
 ![](https://komarev.com/ghpvc/?username=charlsef23)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlsef23&layout)](https://github.com/charlsef23/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlsef23&layout)](https://github.com/charlsef23/github-readme-stats)
   
  
 
