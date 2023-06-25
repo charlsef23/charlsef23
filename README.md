@@ -36,4 +36,4 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=charlsef23&&theme=react&&hide_border=true"
 />
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlsef23&layout)](https://github.com/charlsef23/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?charlsef23=anuraghazra)
