@@ -1,9 +1,13 @@
-<p align="center" width="300">
-    <img align="center" width="200" src="https://user-images.githubusercontent.com/49783285/211534138-b9078b76-c5ce-4b94-81dd-b3012525d37a.jpeg"/>
-    <h3 align="center">Hey 👋! I'm Carlos 👨🏻‍💻</h3>
- </p>
- 
- <p align="center">I'm a future <strong>Web Developer</strong> <br />¡These are my social networks👇!</p>
+<h1 align="center">Hi 👋, I'm Carlos</h1>
+<h3 align="center">Software developer.</h3>
+
+<br>
+
+I'm passionate about creating useful applications with accessible, scalable, and user-centered interfaces.
+
+I work in frontend, backend, and cloud, but I specialize in frontend.
+
+In my free time, I enjoy going to the gym, reading.
  
  <p align="center">
   <a href="https://twitter.com/Charlsef23/" target="blank" style="margin-right: 4px">
