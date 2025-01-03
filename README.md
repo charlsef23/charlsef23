@@ -28,9 +28,5 @@ Hello! I’m a freelance web developer and Apple Developer passionate about crea
   src="https://github-readme-stats.vercel.app/api?username=charlsef23&show_icons=true&theme=react&&hide_border=true"
 />
 <br/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=charlsef23&&theme=react&&hide_border=true"
-/>
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlsef23\&layout=compact)
 
