@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Software developer.</h3>
+<h3 align="center">Apple developer.</h3>
 
 <br>
 
-I'm passionate about creating useful applications with accessible, scalable, and user-centered interfaces.
-
-I work in frontend, backend, and cloud, but I specialize in frontend.
-
-In my free time, I enjoy going to the gym, reading.
+Hello! I’m a freelance web developer and Apple Developer passionate about creating elegant and functional digital solutions. With experience in designing and developing web and mobile applications, I specialize in building projects that combine modern technology, intuitive design, and flawless performance...
  
  <p align="center">
   <a href="https://twitter.com/Charlsef23/" target="blank" style="margin-right: 4px">
