@@ -19,7 +19,7 @@ Hello! I’m a freelance web developer and Apple Developer passionate about crea
  
  ### 🤓 A little more about me...
  
- <p>I'm a <strong>proactive person</strong> who enjoys facing new challenges in my life. <strong>My open mindset and my ability to learn quickly</strong> give me an excellent set of skills to adapt to any work team.</p>
+ <p>My focus is on delivering personalized, high-quality results, whether developing applications for the Apple ecosystem (iOS, macOS) or websites tailored perfectly to my clients’ needs. As a freelancer, I have the flexibility to collaborate on projects of various scales, from small businesses to more complex ventures.</p>
 
  
  # 📈 Stats
